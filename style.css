@@ -4,4 +4,9 @@ body{
 h3{
   color:greenyellow;
   font-size: 30px;
+  text-align: center;
+}
+p{
+  color: coral;
+  font-weight: 700;
 }
